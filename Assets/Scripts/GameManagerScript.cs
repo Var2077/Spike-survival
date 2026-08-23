@@ -1,13 +1,45 @@
 using UnityEngine;
+using TMPro;
 
 public class GameManagerScript : MonoBehaviour
 {
     public bool gameOver = false;
 
-    public void GameOver()
+    public int score = 0;
+
+    public TextMeshProUGUI scoreText;
+
+    void Start()
     {
-        gameOver = true;
-        Debug.Log("OOF GAME OVER!");
+        Time.timeScale = 1f;
+        scoreText.text = score.ToString();
     }
 
+    public void AddScore()
+    {
+        if (gameOver)
+        {
+            return;
+        }
+
+        score++;
+
+        scoreText.text = score.ToString();
+
+        Debug.Log("Score: " + score);
+    }
+
+    public void GameOver()
+    {
+        if (gameOver)
+        {
+            return;
+        }
+
+        gameOver = true;
+
+        Debug.Log("GAME OVER!");
+
+        Time.timeScale = 0f;
+    }
 }

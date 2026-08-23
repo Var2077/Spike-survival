@@ -8,6 +8,11 @@ public class BirdScript : MonoBehaviour
 
     void Update()
     {
+        if (gameManager.gameOver)
+        {
+            return;
+        }
+
         if (Input.GetKeyDown(KeyCode.Space))
         {
             myRigidbody.linearVelocity = Vector2.up * flapStrength;
@@ -19,5 +24,3 @@ public class BirdScript : MonoBehaviour
         gameManager.GameOver();
     }
 }
-
-
