@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: 21be10f199267754793ad25424809f3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4129600889651842167
+    second: Spikesforcave_0
+  - first:
+      213: 660170407260645838
+    second: Spikesforcave_1
+  - first:
+      213: -5490390606218870232
+    second: Spikesforcave_2
+  - first:
+      213: 9045910717817659388
+    second: Spikesforcave_3
+  - first:
+      213: 217262920738254067
+    second: Spikesforcave_4
+  - first:
+      213: -105992960431147535
+    second: Spikesforcave_5
+  - first:
+      213: -4808939780138519087
+    second: Spikesforcave_6
+  - first:
+      213: 111120631217676361
+    second: Spikesforcave_7
+  - first:
+      213: -166706759669904778
+    second: Spikesforcave_8
+  - first:
+      213: -968281818575289352
+    second: Spikesforcave_9
+  - first:
+      213: 4824986511214314943
+    second: Spikesforcave_10
+  - first:
+      213: 4305452927382736843
+    second: Spikesforcave_11
+  - first:
+      213: 227644534673162587
+    second: Spikesforcave_12
+  - first:
+      213: 4944458018164601921
+    second: Spikesforcave_13
+  - first:
+      213: -741521162310830544
+    second: Spikesforcave_14
+  - first:
+      213: -8568333405906336090
+    second: Spikesforcave_15
+  - first:
+      213: 5930887229669301175
+    second: Spikesforcave_16
+  - first:
+      213: -7746046601397277840
+    second: Spikesforcave_17
+  - first:
+      213: -8036120041462818032
+    second: Spikesforcave_18
+  - first:
+      213: 673648255693935660
+    second: Spikesforcave_19
+  - first:
+      213: -2997892547005901810
+    second: Spikesforcave_20
+  - first:
+      213: -4744145435550822792
+    second: Spikesforcave_21
+  - first:
+      213: -3302226425068987808
+    second: Spikesforcave_22
+  - first:
+      213: 766780535146393751
+    second: Spikesforcave_23
+  - first:
+      213: 3107896231343745206
+    second: Spikesforcave_24
+  - first:
+      213: 8626529705312405978
+    second: Spikesforcave_25
+  - first:
+      213: -1036341529564170404
+    second: Spikesforcave_26
+  - first:
+      213: 711484703861698629
+    second: Spikesforcave_27
+  - first:
+      213: -2174766387629572571
+    second: Spikesforcave_28
+  - first:
+      213: 6913192223947158268
+    second: Spikesforcave_29
+  - first:
+      213: -1709418688972970557
+    second: Spikesforcave_30
+  - first:
+      213: 7920295637402486273
+    second: Spikesforcave_31
+  - first:
+      213: 4932627291353902809
+    second: Spikesforcave_32
+  - first:
+      213: -2363908219613177775
+    second: Spikesforcave_33
+  - first:
+      213: 1729324261925430950
+    second: Spikesforcave_34
+  - first:
+      213: -8707376749333492094
+    second: Spikesforcave_35
+  - first:
+      213: 802234608966079984
+    second: Spikesforcave_36
+  - first:
+      213: -4493227957094682943
+    second: Spikesforcave_37
+  - first:
+      213: -6302957637275808656
+    second: Spikesforcave_38
+  - first:
+      213: -7123669354911224971
+    second: Spikesforcave_39
+  - first:
+      213: 6358360094809611361
+    second: Spikesforcave_40
+  - first:
+      213: 98085771391074277
+    second: Spikesforcave_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spikesforcave_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 531
+        width: 379
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9833a24ded5b0b6c0800000000000000
+      internalID: -4129600889651842167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_1
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 671
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9eef7dc75692900800000000000000
+      internalID: 660170407260645838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 593
+        width: 279
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822ce2e35d63ec3b0800000000000000
+      internalID: -5490390606218870232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_3
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 375
+        width: 297
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff9b6dded7898d70800000000000000
+      internalID: 9045910717817659388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 713
+        width: 162
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fca77da97fd30300800000000000000
+      internalID: 217262920738254067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_5
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 703
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f53fccc6ff678ef0800000000000000
+      internalID: -105992960431147535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_6
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 613
+        width: 194
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d53992bfb6334db0800000000000000
+      internalID: -4808939780138519087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_7
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 687
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94062f610a7ca8100800000000000000
+      internalID: 111120631217676361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_8
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 687
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a0838d51dbfadf0800000000000000
+      internalID: -166706759669904778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_9
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 466
+        width: 165
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3c951f0d8ff82f0800000000000000
+      internalID: -968281818575289352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_10
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 815
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb50bf60babc5f240800000000000000
+      internalID: 4824986511214314943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_11
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 693
+        width: 137
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf40dd40aa00cb30800000000000000
+      internalID: 4305452927382736843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_12
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 583
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51c0488f71c82300800000000000000
+      internalID: 227644534673162587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_13
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 523
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1447883ee5e3e9440800000000000000
+      internalID: 4944458018164601921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_14
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 619
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036370f7e6695b5f0800000000000000
+      internalID: -741521162310830544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_15
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 607
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a607df0a2a271980800000000000000
+      internalID: -8568333405906336090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_16
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 551
+        width: 101
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbd65f138ebe4250800000000000000
+      internalID: 5930887229669301175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_17
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 651
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07be71608a3808490800000000000000
+      internalID: -7746046601397277840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_18
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 503
+        width: 31
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b16344667f97090800000000000000
+      internalID: -8036120041462818032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_19
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 623
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24d238f487495900800000000000000
+      internalID: 673648255693935660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_20
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 637
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e041cecac985566d0800000000000000
+      internalID: -2997892547005901810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_21
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 581
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ec337acd8692eb0800000000000000
+      internalID: -4744145435550822792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 391
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06adad5ff822c22d0800000000000000
+      internalID: -3302226425068987808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_23
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 491
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790b51a85d624aa00800000000000000
+      internalID: 766780535146393751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_24
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 517
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8e404f727712b20800000000000000
+      internalID: 3107896231343745206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_25
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 487
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad94089cf0797b770800000000000000
+      internalID: 8626529705312405978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_26
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 493
+        width: 91
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57b750aedc2e91f0800000000000000
+      internalID: -1036341529564170404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_27
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 437
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540fccc8193bfd900800000000000000
+      internalID: 711484703861698629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_28
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 423
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e31eb2e7da1d1e0800000000000000
+      internalID: -2174766387629572571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 433
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2fc5433b790ff50800000000000000
+      internalID: 6913192223947158268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_30
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 435
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c52a5f52cce648e0800000000000000
+      internalID: -1709418688972970557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_31
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 439
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106837f2bea8aed60800000000000000
+      internalID: 7920295637402486273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_32
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 262
+        width: 139
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9deeb862366347440800000000000000
+      internalID: 4932627291353902809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_33
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 61
+        width: 195
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1589450bff5b13fd0800000000000000
+      internalID: -2363908219613177775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_34
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 61
+        width: 305
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6a78df04bcff710800000000000000
+      internalID: 1729324261925430950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_35
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 361
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e4b7aeafe292780800000000000000
+      internalID: -8707376749333492094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_36
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 362
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f592fd502c122b00800000000000000
+      internalID: 802234608966079984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_37
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 393
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce648aaaf8d4a1c0800000000000000
+      internalID: -4493227957094682943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_38
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 373
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c07d36c656788a0800000000000000
+      internalID: -6302957637275808656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_39
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 62
+        width: 244
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b2e2be674a32d90800000000000000
+      internalID: -7123669354911224971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_40
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 62
+        width: 184
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c552571de6d3850800000000000000
+      internalID: 6358360094809611361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikesforcave_41
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 62
+        width: 143
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eff8494d787c5100800000000000000
+      internalID: 98085771391074277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spikesforcave_0: -4129600889651842167
+      Spikesforcave_1: 660170407260645838
+      Spikesforcave_10: 4824986511214314943
+      Spikesforcave_11: 4305452927382736843
+      Spikesforcave_12: 227644534673162587
+      Spikesforcave_13: 4944458018164601921
+      Spikesforcave_14: -741521162310830544
+      Spikesforcave_15: -8568333405906336090
+      Spikesforcave_16: 5930887229669301175
+      Spikesforcave_17: -7746046601397277840
+      Spikesforcave_18: -8036120041462818032
+      Spikesforcave_19: 673648255693935660
+      Spikesforcave_2: -5490390606218870232
+      Spikesforcave_20: -2997892547005901810
+      Spikesforcave_21: -4744145435550822792
+      Spikesforcave_22: -3302226425068987808
+      Spikesforcave_23: 766780535146393751
+      Spikesforcave_24: 3107896231343745206
+      Spikesforcave_25: 8626529705312405978
+      Spikesforcave_26: -1036341529564170404
+      Spikesforcave_27: 711484703861698629
+      Spikesforcave_28: -2174766387629572571
+      Spikesforcave_29: 6913192223947158268
+      Spikesforcave_3: 9045910717817659388
+      Spikesforcave_30: -1709418688972970557
+      Spikesforcave_31: 7920295637402486273
+      Spikesforcave_32: 4932627291353902809
+      Spikesforcave_33: -2363908219613177775
+      Spikesforcave_34: 1729324261925430950
+      Spikesforcave_35: -8707376749333492094
+      Spikesforcave_36: 802234608966079984
+      Spikesforcave_37: -4493227957094682943
+      Spikesforcave_38: -6302957637275808656
+      Spikesforcave_39: -7123669354911224971
+      Spikesforcave_4: 217262920738254067
+      Spikesforcave_40: 6358360094809611361
+      Spikesforcave_41: 98085771391074277
+      Spikesforcave_5: -105992960431147535
+      Spikesforcave_6: -4808939780138519087
+      Spikesforcave_7: 111120631217676361
+      Spikesforcave_8: -166706759669904778
+      Spikesforcave_9: -968281818575289352
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

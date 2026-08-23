@@ -1,0 +1,2628 @@
+fileFormatVersion: 2
+guid: 2499b250670d0b540ad2372c7eb6fa7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 638531401770768711
+    second: minerboy_0
+  - first:
+      213: -5261500122029031791
+    second: minerboy_1
+  - first:
+      213: 674039487604288359
+    second: minerboy_2
+  - first:
+      213: -9150673042076537120
+    second: minerboy_3
+  - first:
+      213: -2420218914349873751
+    second: minerboy_4
+  - first:
+      213: -791205849521910808
+    second: minerboy_5
+  - first:
+      213: 3679206753334889858
+    second: minerboy_6
+  - first:
+      213: 961109642080530095
+    second: minerboy_7
+  - first:
+      213: 2964227790230646195
+    second: minerboy_8
+  - first:
+      213: 6152964258285725541
+    second: minerboy_9
+  - first:
+      213: 8578702522688114669
+    second: minerboy_10
+  - first:
+      213: 8073808213790333986
+    second: minerboy_11
+  - first:
+      213: -758449774449739163
+    second: minerboy_12
+  - first:
+      213: -381869072667484961
+    second: minerboy_13
+  - first:
+      213: -8516928367730169210
+    second: minerboy_14
+  - first:
+      213: 3295058125670370442
+    second: minerboy_15
+  - first:
+      213: -1953631414972175679
+    second: minerboy_16
+  - first:
+      213: 5329056569919677830
+    second: minerboy_17
+  - first:
+      213: 4444990589291356374
+    second: minerboy_18
+  - first:
+      213: -3832791017521290230
+    second: minerboy_19
+  - first:
+      213: -3690766678816117493
+    second: minerboy_20
+  - first:
+      213: 2507438178342115514
+    second: minerboy_21
+  - first:
+      213: 5953366886230307842
+    second: minerboy_22
+  - first:
+      213: 4397176980057977150
+    second: minerboy_23
+  - first:
+      213: -8359659146308752669
+    second: minerboy_24
+  - first:
+      213: 8435371778881097453
+    second: minerboy_25
+  - first:
+      213: -2417881677635537770
+    second: minerboy_26
+  - first:
+      213: -1639458385325479773
+    second: minerboy_27
+  - first:
+      213: -5363312803411948117
+    second: minerboy_28
+  - first:
+      213: 1248297793595912569
+    second: minerboy_29
+  - first:
+      213: -5054806213152014080
+    second: minerboy_30
+  - first:
+      213: 1957087974231717180
+    second: minerboy_31
+  - first:
+      213: 65363071200695083
+    second: minerboy_32
+  - first:
+      213: -1807296175476918926
+    second: minerboy_33
+  - first:
+      213: 8564196069204683854
+    second: minerboy_34
+  - first:
+      213: -5663880090509618811
+    second: minerboy_35
+  - first:
+      213: -7060985784531413411
+    second: minerboy_36
+  - first:
+      213: -5834885148200520118
+    second: minerboy_37
+  - first:
+      213: -1282576105384404729
+    second: minerboy_38
+  - first:
+      213: 5119397474703883055
+    second: minerboy_39
+  - first:
+      213: 5264475398168824214
+    second: minerboy_40
+  - first:
+      213: 112492288832335243
+    second: minerboy_41
+  - first:
+      213: -6710461036744538522
+    second: minerboy_42
+  - first:
+      213: 5242622347819988608
+    second: minerboy_43
+  - first:
+      213: 1360487538738503024
+    second: minerboy_44
+  - first:
+      213: -8545417273629807595
+    second: minerboy_45
+  - first:
+      213: 8315544842132731929
+    second: minerboy_46
+  - first:
+      213: -7300944334544047808
+    second: minerboy_47
+  - first:
+      213: -7749429535384441005
+    second: minerboy_48
+  - first:
+      213: -7959329372575282173
+    second: minerboy_49
+  - first:
+      213: -5211587202064969442
+    second: minerboy_50
+  - first:
+      213: -2763644256446155251
+    second: minerboy_51
+  - first:
+      213: 4533669557992916515
+    second: minerboy_52
+  - first:
+      213: 6763602797641942519
+    second: minerboy_53
+  - first:
+      213: 5013658285444835312
+    second: minerboy_54
+  - first:
+      213: 7616842655845517326
+    second: minerboy_55
+  - first:
+      213: 8722012104343477568
+    second: minerboy_56
+  - first:
+      213: 36237955458946404
+    second: minerboy_57
+  - first:
+      213: -1297551001228241223
+    second: minerboy_58
+  - first:
+      213: 7793719775134322404
+    second: minerboy_59
+  - first:
+      213: 7053909372609019780
+    second: minerboy_60
+  - first:
+      213: 883287861368811523
+    second: minerboy_61
+  - first:
+      213: 3746789835525463784
+    second: minerboy_62
+  - first:
+      213: 3212047372916023362
+    second: minerboy_63
+  - first:
+      213: -6282023604109674553
+    second: minerboy_64
+  - first:
+      213: -4298915324793364126
+    second: minerboy_65
+  - first:
+      213: -6930900336659648881
+    second: minerboy_66
+  - first:
+      213: -8762644213193078639
+    second: minerboy_67
+  - first:
+      213: -2594785264607116385
+    second: minerboy_68
+  - first:
+      213: 8899429310703732114
+    second: minerboy_69
+  - first:
+      213: 4347853970268152328
+    second: minerboy_70
+  - first:
+      213: 1796239996738404524
+    second: minerboy_71
+  - first:
+      213: -8552026704282780125
+    second: minerboy_72
+  - first:
+      213: -9183046425278623887
+    second: minerboy_73
+  - first:
+      213: -7069852134497369403
+    second: minerboy_74
+  - first:
+      213: 2399391952940771642
+    second: minerboy_75
+  - first:
+      213: 4733711796318021757
+    second: minerboy_76
+  - first:
+      213: -4473345635732189930
+    second: minerboy_77
+  - first:
+      213: -8304346030236183791
+    second: minerboy_78
+  - first:
+      213: -7716729253976821745
+    second: minerboy_79
+  - first:
+      213: -9017666482047774160
+    second: minerboy_80
+  - first:
+      213: 6333061220520490572
+    second: minerboy_81
+  - first:
+      213: -6906326855408533936
+    second: minerboy_82
+  - first:
+      213: -7707715234417563265
+    second: minerboy_83
+  - first:
+      213: -1912851077305328635
+    second: minerboy_84
+  - first:
+      213: 2193876891586107575
+    second: minerboy_85
+  - first:
+      213: 8241240024945920500
+    second: minerboy_86
+  - first:
+      213: -1556253008740566043
+    second: minerboy_87
+  - first:
+      213: 5214879087626040467
+    second: minerboy_88
+  - first:
+      213: -8029021999441968792
+    second: minerboy_89
+  - first:
+      213: -6839686740142984740
+    second: minerboy_90
+  - first:
+      213: -1538423687021496462
+    second: minerboy_91
+  - first:
+      213: 1577587135814352650
+    second: minerboy_92
+  - first:
+      213: 5832272898101006725
+    second: minerboy_93
+  - first:
+      213: 6151676774250356915
+    second: minerboy_94
+  - first:
+      213: -2788992929701958289
+    second: minerboy_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: minerboy_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 647
+        width: 226
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7499a744de48cd800800000000000000
+      internalID: 638531401770768711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 629
+        width: 198
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ef8c004856bf6b0800000000000000
+      internalID: -5261500122029031791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_2
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 639
+        width: 214
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b6d3fb75baa5900800000000000000
+      internalID: 674039487604288359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_3
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 645
+        width: 211
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eee84fb957420180800000000000000
+      internalID: -9150673042076537120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_4
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 229
+        width: 625
+        height: 695
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a58e7368b7a96ed0800000000000000
+      internalID: -2420218914349873751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_5
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 898
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb090bc8721505f0800000000000000
+      internalID: -791205849521910808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 846
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d8eb38c0b2f0330800000000000000
+      internalID: 3679206753334889858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_7
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 754
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faea966902c865d00800000000000000
+      internalID: 961109642080530095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_8
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 730
+        width: 132
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bde906587d032920800000000000000
+      internalID: 2964227790230646195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_9
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 846
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567abc2a468b36550800000000000000
+      internalID: 6152964258285725541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 835
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def82921e7cad0770800000000000000
+      internalID: 8578702522688114669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_11
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 787
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c9a972bcdeb0070800000000000000
+      internalID: 8073808213790333986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_12
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 785
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ab2f5d2f17975f0800000000000000
+      internalID: -758449774449739163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_13
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 785
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc52f40a1453baf0800000000000000
+      internalID: -381869072667484961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_14
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 783
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68aeeff26cacdc980800000000000000
+      internalID: -8516928367730169210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_15
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 766
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cc8d648e56abd20800000000000000
+      internalID: 3295058125670370442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 303
+        width: 224
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca2a80349e43e4e0800000000000000
+      internalID: -1953631414972175679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 667
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685260e37bc94f940800000000000000
+      internalID: 5329056569919677830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 357
+        width: 209
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d06aa0f367cfad30800000000000000
+      internalID: 4444990589291356374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 631
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04e55660e03fcac0800000000000000
+      internalID: -3832791017521290230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 649
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d21589243c7ccc0800000000000000
+      internalID: -3690766678816117493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_21
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 322
+        width: 208
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8955cfcb53cc220800000000000000
+      internalID: 2507438178342115514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_22
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 667
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204b45704ab9e9250800000000000000
+      internalID: 5953366886230307842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_23
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 655
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3171e68a29e50d30800000000000000
+      internalID: 4397176980057977150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_24
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 637
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaebec3c468cfb80800000000000000
+      internalID: -8359659146308752669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_25
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 296
+        width: 297
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee009cb0f5701570800000000000000
+      internalID: 8435371778881097453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_26
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 700
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694bb97bc65f17ed0800000000000000
+      internalID: -2417881677635537770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_27
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 686
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8a3a6e8497f39e0800000000000000
+      internalID: -1639458385325479773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_28
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 643
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad835ddb6fa195b0800000000000000
+      internalID: -5363312803411948117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_29
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 681
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9713031ca38d25110800000000000000
+      internalID: 1248297793595912569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_30
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 641
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00103a8d788b9d9b0800000000000000
+      internalID: -5054806213152014080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_31
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 689
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35354ab429f82b10800000000000000
+      internalID: 1957087974231717180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_32
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 687
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b239850fd5738e000800000000000000
+      internalID: 65363071200695083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_33
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 649
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275b6c034b13be6e0800000000000000
+      internalID: -1807296175476918926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_34
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 681
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cedbb23f22ad670800000000000000
+      internalID: 8564196069204683854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_35
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 668
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58154c2f01bd561b0800000000000000
+      internalID: -5663880090509618811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_36
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 550
+        width: 85
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d561ce4f6d6520e90800000000000000
+      internalID: -7060985784531413411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_37
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 627
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a463e4c4fd2560fa0800000000000000
+      internalID: -5834885148200520118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_38
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 614
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7099829d3df533ee0800000000000000
+      internalID: -1282576105384404729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_39
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 706
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bb1c721e0cb0740800000000000000
+      internalID: 5119397474703883055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_40
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 561
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699c2a47b7c2f0940800000000000000
+      internalID: 5264475398168824214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_41
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 576
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d62d30427af8100800000000000000
+      internalID: 112492288832335243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_42
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 592
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6660eb99d37afd2a0800000000000000
+      internalID: -6710461036744538522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_43
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 539
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086b55daf3981c840800000000000000
+      internalID: 5242622347819988608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_44
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 519
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d9ad3553c61e210800000000000000
+      internalID: 1360487538738503024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_45
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 470
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ceec3e344986980800000000000000
+      internalID: -8545417273629807595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_46
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 434
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918372de9ffb66370800000000000000
+      internalID: 8315544842132731929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_47
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 324
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041f99e4fc5ddaa90800000000000000
+      internalID: -7300944334544047808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_48
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 323
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f6d7355ee747490800000000000000
+      internalID: -7749429535384441005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_49
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 328
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c41512b18ca8190800000000000000
+      internalID: -7959329372575282173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_50
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 306
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1112f84d09bca7b0800000000000000
+      internalID: -5211587202064969442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_51
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 316
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d067af0f03095a9d0800000000000000
+      internalID: -2763644256446155251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_52
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 300
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3268b2d4174daee30800000000000000
+      internalID: 4533669557992916515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_53
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 326
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5494bc8e42ddd50800000000000000
+      internalID: 6763602797641942519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_54
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 321
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f72229a5a7149540800000000000000
+      internalID: 5013658285444835312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_55
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 312
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0807bb2a0674b960800000000000000
+      internalID: 7616842655845517326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_56
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 302
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ddc063ccfca0970800000000000000
+      internalID: 8722012104343477568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_57
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 310
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465548e7a3eb08000800000000000000
+      internalID: 36237955458946404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_58
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 292
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b696d53d3c2efde0800000000000000
+      internalID: -1297551001228241223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_59
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 315
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee81d3b7dad82c60800000000000000
+      internalID: 7793719775134322404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_60
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 294
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fb820833584e160800000000000000
+      internalID: 7053909372609019780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 255
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3007d4b41a1124c00800000000000000
+      internalID: 883287861368811523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_62
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 237
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee1a8a01854ff330800000000000000
+      internalID: 3746789835525463784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_63
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 264
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240e268411c739c20800000000000000
+      internalID: 3212047372916023362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_64
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 292
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c77c6ec0d4c1d8a0800000000000000
+      internalID: -6282023604109674553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_65
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 290
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261653ae94f2754c0800000000000000
+      internalID: -4298915324793364126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_66
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 295
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e24c38dde70df90800000000000000
+      internalID: -6930900336659648881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_67
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 0
+        width: 202
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1988e7bb385d46680800000000000000
+      internalID: -8762644213193078639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_68
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 24
+        width: 152
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93cca2bc887dfbd0800000000000000
+      internalID: -2594785264607116385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_69
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 276
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29502309ecf118b70800000000000000
+      internalID: 8899429310703732114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_70
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 250
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802ea19662ea65c30800000000000000
+      internalID: 4347853970268152328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_71
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 278
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca001f892c68de810800000000000000
+      internalID: 1796239996738404524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_72
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 249
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ef195e509115980800000000000000
+      internalID: -8552026704282780125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_73
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 215
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fc8591ee34f8080800000000000000
+      internalID: -9183046425278623887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_74
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 254
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c24fbcf0f6d2ed90800000000000000
+      internalID: -7069852134497369403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_75
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 32
+        width: 209
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3927f7c44a5c4120800000000000000
+      internalID: 2399391952940771642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_76
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 203
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78ac986cc581b140800000000000000
+      internalID: 4733711796318021757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_77
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 241
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d83a858db7be1c0800000000000000
+      internalID: -4473345635732189930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_78
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 223
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113d8d7a84901cc80800000000000000
+      internalID: -8304346030236183791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_79
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 227
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00b8d4e0aba8e490800000000000000
+      internalID: -7716729253976821745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_80
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 16
+        width: 121
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032989abc10dad280800000000000000
+      internalID: -9017666482047774160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_81
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 0
+        width: 156
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46fce540ad83e750800000000000000
+      internalID: 6333061220520490572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_82
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 23
+        width: 126
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e32a8f05cc720a0800000000000000
+      internalID: -6906326855408533936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_83
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 0
+        width: 104
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79acaed4d1b80590800000000000000
+      internalID: -7707715234417563265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_84
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 150
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c1ef474103475e0800000000000000
+      internalID: -1912851077305328635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_85
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 121
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b89de3c867327e10800000000000000
+      internalID: 2193876891586107575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_86
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 122
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f902a38324ce5270800000000000000
+      internalID: 8241240024945920500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_87
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 95
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebb2694224176ae0800000000000000
+      internalID: -1556253008740566043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_88
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 75
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394309c86e8fe5840800000000000000
+      internalID: 5214879087626040467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_89
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 45
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8610775f70f239090800000000000000
+      internalID: -8029021999441968792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_90
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 65
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1f3d6e52d8411a0800000000000000
+      internalID: -6839686740142984740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_91
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 47
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277790dbecb66aae0800000000000000
+      internalID: -1538423687021496462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_92
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 28
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fb0704427b4e510800000000000000
+      internalID: 1577587135814352650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_93
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 29
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581d274dc4560f050800000000000000
+      internalID: 5832272898101006725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_94
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 0
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0a636ee652f5550800000000000000
+      internalID: 6151676774250356915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: minerboy_95
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 26
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6de90805b18b49d0800000000000000
+      internalID: -2788992929701958289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fa079d0eeb6b5f742b92ef15fa8ce182
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      minerboy_0: 638531401770768711
+      minerboy_1: -5261500122029031791
+      minerboy_10: 8578702522688114669
+      minerboy_11: 8073808213790333986
+      minerboy_12: -758449774449739163
+      minerboy_13: -381869072667484961
+      minerboy_14: -8516928367730169210
+      minerboy_15: 3295058125670370442
+      minerboy_16: -1953631414972175679
+      minerboy_17: 5329056569919677830
+      minerboy_18: 4444990589291356374
+      minerboy_19: -3832791017521290230
+      minerboy_2: 674039487604288359
+      minerboy_20: -3690766678816117493
+      minerboy_21: 2507438178342115514
+      minerboy_22: 5953366886230307842
+      minerboy_23: 4397176980057977150
+      minerboy_24: -8359659146308752669
+      minerboy_25: 8435371778881097453
+      minerboy_26: -2417881677635537770
+      minerboy_27: -1639458385325479773
+      minerboy_28: -5363312803411948117
+      minerboy_29: 1248297793595912569
+      minerboy_3: -9150673042076537120
+      minerboy_30: -5054806213152014080
+      minerboy_31: 1957087974231717180
+      minerboy_32: 65363071200695083
+      minerboy_33: -1807296175476918926
+      minerboy_34: 8564196069204683854
+      minerboy_35: -5663880090509618811
+      minerboy_36: -7060985784531413411
+      minerboy_37: -5834885148200520118
+      minerboy_38: -1282576105384404729
+      minerboy_39: 5119397474703883055
+      minerboy_4: -2420218914349873751
+      minerboy_40: 5264475398168824214
+      minerboy_41: 112492288832335243
+      minerboy_42: -6710461036744538522
+      minerboy_43: 5242622347819988608
+      minerboy_44: 1360487538738503024
+      minerboy_45: -8545417273629807595
+      minerboy_46: 8315544842132731929
+      minerboy_47: -7300944334544047808
+      minerboy_48: -7749429535384441005
+      minerboy_49: -7959329372575282173
+      minerboy_5: -791205849521910808
+      minerboy_50: -5211587202064969442
+      minerboy_51: -2763644256446155251
+      minerboy_52: 4533669557992916515
+      minerboy_53: 6763602797641942519
+      minerboy_54: 5013658285444835312
+      minerboy_55: 7616842655845517326
+      minerboy_56: 8722012104343477568
+      minerboy_57: 36237955458946404
+      minerboy_58: -1297551001228241223
+      minerboy_59: 7793719775134322404
+      minerboy_6: 3679206753334889858
+      minerboy_60: 7053909372609019780
+      minerboy_61: 883287861368811523
+      minerboy_62: 3746789835525463784
+      minerboy_63: 3212047372916023362
+      minerboy_64: -6282023604109674553
+      minerboy_65: -4298915324793364126
+      minerboy_66: -6930900336659648881
+      minerboy_67: -8762644213193078639
+      minerboy_68: -2594785264607116385
+      minerboy_69: 8899429310703732114
+      minerboy_7: 961109642080530095
+      minerboy_70: 4347853970268152328
+      minerboy_71: 1796239996738404524
+      minerboy_72: -8552026704282780125
+      minerboy_73: -9183046425278623887
+      minerboy_74: -7069852134497369403
+      minerboy_75: 2399391952940771642
+      minerboy_76: 4733711796318021757
+      minerboy_77: -4473345635732189930
+      minerboy_78: -8304346030236183791
+      minerboy_79: -7716729253976821745
+      minerboy_8: 2964227790230646195
+      minerboy_80: -9017666482047774160
+      minerboy_81: 6333061220520490572
+      minerboy_82: -6906326855408533936
+      minerboy_83: -7707715234417563265
+      minerboy_84: -1912851077305328635
+      minerboy_85: 2193876891586107575
+      minerboy_86: 8241240024945920500
+      minerboy_87: -1556253008740566043
+      minerboy_88: 5214879087626040467
+      minerboy_89: -8029021999441968792
+      minerboy_9: 6152964258285725541
+      minerboy_90: -6839686740142984740
+      minerboy_91: -1538423687021496462
+      minerboy_92: 1577587135814352650
+      minerboy_93: 5832272898101006725
+      minerboy_94: 6151676774250356915
+      minerboy_95: -2788992929701958289
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
