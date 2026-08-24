@@ -19,8 +19,8 @@ public class SpikeSpawnerScript : MonoBehaviour
 
     void SpawnSpike()
     {
-        float lowestPoint = -0.8f;
-        float highestPoint = 0.8f;
+        float lowestPoint = -1f;
+        float highestPoint = 1f;
 
         float randomY = Random.Range(lowestPoint, highestPoint);
 

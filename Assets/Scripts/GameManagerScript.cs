@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using TMPro;
 
 public class GameManagerScript : MonoBehaviour
@@ -8,14 +9,23 @@ public class GameManagerScript : MonoBehaviour
     public int score = 0;
 
     public TextMeshProUGUI scoreText;
+    public GameObject gameOverScreen;
 
     void Start()
     {
         Time.timeScale = 1f;
+
         scoreText.text = score.ToString();
+
+        gameOverScreen.SetActive(false);
     }
 
     public void AddScore()
+    {
+        AddScore(1);
+    }
+
+    public void AddScore(int points)
     {
         if (gameOver)
         {
@@ -25,8 +35,6 @@ public class GameManagerScript : MonoBehaviour
         score++;
 
         scoreText.text = score.ToString();
-
-        Debug.Log("Score: " + score);
     }
 
     public void GameOver()
@@ -38,8 +46,19 @@ public class GameManagerScript : MonoBehaviour
 
         gameOver = true;
 
-        Debug.Log("GAME OVER!");
+        gameOverScreen.SetActive(true);
 
         Time.timeScale = 0f;
     }
+
+    public void RestartGame()
+    {
+        Time.timeScale = 1f;
+
+        SceneManager.LoadScene(
+            SceneManager.GetActiveScene().name
+        );
+    }
+
 }
+
