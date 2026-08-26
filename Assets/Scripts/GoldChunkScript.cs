@@ -15,6 +15,8 @@ public class GoldChunkScript : MonoBehaviour
         {
             gameManager.AddScore(5);
 
+            SoundManagerScript.instance.PlayGoldSound();
+
             Destroy(gameObject);
         }
     }

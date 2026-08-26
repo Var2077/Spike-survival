@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2038475973495201054}
   - component: {fileID: 4103677824881107287}
   - component: {fileID: 2040630381444012412}
-  - component: {fileID: 760193415156859645}
+  - component: {fileID: 6786039998176480770}
   m_Layer: 0
   m_Name: GoldChunk
   m_TagString: Untagged
@@ -29,8 +29,8 @@ Transform:
   m_GameObject: {fileID: 6654929801823626746}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.47409, z: 0}
-  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
+  m_LocalPosition: {x: -1.5508, y: 0.4063, z: 0}
+  m_LocalScale: {x: 0.038471997, y: 0.037772242, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -82,9 +82,9 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 15c3a9aa683ec87429058aac0e0e8f89, type: 3}
   m_Color: {r: 0.9245283, g: 0.7642615, b: 0.030526895, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -129,8 +129,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_Radius: 0.49999997
+  m_Offset: {x: 0.40418628, y: -0.088413835}
+  m_Radius: 4.9840827
 --- !u!114 &2040630381444012412
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -143,7 +143,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a84209d5c71473e4188e86f4fb35660c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GoldChunkScript
---- !u!114 &760193415156859645
+--- !u!114 &6786039998176480770
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -152,8 +152,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 6654929801823626746}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ab0153f80559494479f81352f104c456, type: 3}
+  m_Script: {fileID: 11500000, guid: 6cb8d4d834f1784418c4f263a3648e67, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GoldMoveScript
-  moveSpeed: 3
-  deadZone: -15
+  moveSpeed: 5

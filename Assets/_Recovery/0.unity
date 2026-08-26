@@ -501,7 +501,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_MaskInteraction: 0
   m_Sprite: {fileID: 4444990589291356374, guid: 2499b250670d0b540ad2372c7eb6fa7c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1139,6 +1139,55 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1199767270
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1199767273}
+  - component: {fileID: 1199767272}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1199767272
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1199767270}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4890cc9e5ded96a41b0125b6236b786e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SoundManagerScript
+  jumpSound: {fileID: 8300000, guid: 3b336b7c0ee579044a07f6ce8309cef1, type: 3}
+  deathSound: {fileID: 8300000, guid: 269a7341b85e1574b8a4c4b6d379d7ef, type: 3}
+  goldSound: {fileID: 8300000, guid: 2007d68a993c93c4ab276b5701d43b69, type: 3}
+  scoreSound: {fileID: 8300000, guid: a73a9f1402744b3468b26d7691b73c0a, type: 3}
+  backgroundMusic: {fileID: 8300000, guid: ac17037e1f1039448b804973ca76f30f, type: 3}
+--- !u!4 &1199767273
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1199767270}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.86345, y: -0.47409, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1237038332
 GameObject:
   m_ObjectHideFlags: 0
@@ -1194,6 +1243,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1258050875}
+  - component: {fileID: 1258050876}
   m_Layer: 0
   m_Name: GoldSpawner
   m_TagString: Untagged
@@ -1216,6 +1266,23 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1258050876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1258050874}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 623cbe732a543b34995d1e27b6cc344f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GoldSpawnerScript
+  goldChunk: {fileID: 6654929801823626746, guid: 1cd75336c0453c34e8a963a01b34387e, type: 3}
+  minSpawnTime: 3
+  maxSpawnTime: 6
+  lowestPoint: -3.5
+  highestPoint: 3.5
 --- !u!1 &1290005217
 GameObject:
   m_ObjectHideFlags: 0
@@ -1920,3 +1987,4 @@ SceneRoots:
   - {fileID: 160351226}
   - {fileID: 2080026312}
   - {fileID: 1258050875}
+  - {fileID: 1199767273}

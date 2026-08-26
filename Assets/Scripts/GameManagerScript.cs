@@ -23,6 +23,8 @@ public class GameManagerScript : MonoBehaviour
     public void AddScore()
     {
         AddScore(1);
+
+        SoundManagerScript.instance.PlayScoreSound();
     }
 
     public void AddScore(int points)
@@ -32,7 +34,7 @@ public class GameManagerScript : MonoBehaviour
             return;
         }
 
-        score++;
+        score += points;
 
         scoreText.text = score.ToString();
     }
@@ -45,6 +47,8 @@ public class GameManagerScript : MonoBehaviour
         }
 
         gameOver = true;
+
+        SoundManagerScript.instance.PlayDeathSound();
 
         gameOverScreen.SetActive(true);
 

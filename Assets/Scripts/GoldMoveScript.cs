@@ -3,16 +3,15 @@ using UnityEngine;
 public class GoldMoveScript : MonoBehaviour
 {
     public float moveSpeed = 5f;
-    public float deadZone = -15f;
 
-    private void Update ()
+    void Update()
     {
         transform.position = transform.position +
-            (Vector3.left * moveSpeed) * Time.deltaTime;
+        (Vector3.left * moveSpeed) * Time.deltaTime;
 
-        if (transform.position.x < deadZone)
+        if (transform.position.x < -15f)
         {
-            Destroy (gameObject);
+            Destroy(gameObject);
         }
     }
 }
