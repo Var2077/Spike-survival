@@ -3,6 +3,7 @@ using UnityEngine;
 public class SoundManagerScript : MonoBehaviour
 {
     public static SoundManagerScript instance;
+    public float masterVolume = 0.10f;
 
     public AudioClip jumpSound;
     public AudioClip deathSound;
@@ -15,6 +16,8 @@ public class SoundManagerScript : MonoBehaviour
     void Awake()
     {
         instance = this;
+
+        AudioListener.volume = 0.1f;
 
         soundSource = gameObject.AddComponent<AudioSource>();
         musicSource = gameObject.AddComponent<AudioSource>();
