@@ -5,6 +5,8 @@ public class SoundManagerScript : MonoBehaviour
     public static SoundManagerScript instance;
     public float masterVolume = 0.10f;
 
+    public float masterVolume = 0.1f;
+
     public AudioClip jumpSound;
     public AudioClip deathSound;
     public AudioClip goldSound;
@@ -16,6 +18,7 @@ public class SoundManagerScript : MonoBehaviour
     void Awake()
     {
         instance = this;
+        AudioListener.volume = masterVolume;
 
         AudioListener.volume = 0.1f;
 
