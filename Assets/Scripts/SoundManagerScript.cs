@@ -3,8 +3,6 @@ using UnityEngine;
 public class SoundManagerScript : MonoBehaviour
 {
     public static SoundManagerScript instance;
-    public float masterVolume = 0.10f;
-
     public float masterVolume = 0.1f;
 
     public AudioClip jumpSound;
