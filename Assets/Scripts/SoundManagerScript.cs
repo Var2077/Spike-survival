@@ -4,6 +4,8 @@ public class SoundManagerScript : MonoBehaviour
 {
     public static SoundManagerScript instance;
 
+    public float masterVolume = 0.1f;
+
     public AudioClip jumpSound;
     public AudioClip deathSound;
     public AudioClip goldSound;
@@ -15,6 +17,7 @@ public class SoundManagerScript : MonoBehaviour
     void Awake()
     {
         instance = this;
+        AudioListener.volume = masterVolume;
 
         soundSource = gameObject.AddComponent<AudioSource>();
         musicSource = gameObject.AddComponent<AudioSource>();

@@ -11,11 +11,18 @@ public class GameManagerScript : MonoBehaviour
     public TextMeshProUGUI scoreText;
     public GameObject gameOverScreen;
 
+    public TextMeshProUGUI FinalScoreText;
+    public TextMeshProUGUI topScoreText;
+
+    private int topScore = 0;
+
     void Start()
     {
         Time.timeScale = 1f;
 
         scoreText.text = score.ToString();
+
+        topScore = PlayerPrefs.GetInt("TopScore", 0);
 
         gameOverScreen.SetActive(false);
     }
@@ -49,6 +56,18 @@ public class GameManagerScript : MonoBehaviour
         gameOver = true;
 
         SoundManagerScript.instance.PlayDeathSound();
+
+        if (score > topScore)
+    {
+        topScore = score;
+
+        PlayerPrefs.SetInt("TopScore", topScore);
+        PlayerPrefs.Save();
+    }
+
+    FinalScoreText.text = score.ToString();
+    topScoreText.text = topScore.ToString();
+
 
         gameOverScreen.SetActive(true);
 

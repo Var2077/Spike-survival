@@ -42,10 +42,9 @@ public class GoldSpawnerScript : MonoBehaviour
     float halfScreenWidth =
         mainCamera.orthographicSize * mainCamera.aspect;
 
-    float randomX = Random.Range(
-        mainCamera.transform.position.x + 1.5f,
-        mainCamera.transform.position.x + halfScreenWidth * 0.8f
-    );
+    float randomX = Camera.main.transform.position.x + 
+                (Camera.main.orthographicSize * Camera.main.aspect) +
+                1f;
 
     float randomY;
 
