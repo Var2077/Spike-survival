@@ -14,17 +14,31 @@ public class GameManagerScript : MonoBehaviour
     public TextMeshProUGUI FinalScoreText;
     public TextMeshProUGUI topScoreText;
 
+    public GameObject startPrompt;
+    public bool gameStarted = false;
+
     private int topScore = 0;
 
     void Start()
     {
         Time.timeScale = 1f;
 
+        gameStarted = false;
+
         scoreText.text = score.ToString();
 
         topScore = PlayerPrefs.GetInt("TopScore", 0);
 
         gameOverScreen.SetActive(false);
+
+        startPrompt.SetActive(true);
+    }
+
+    public void StartGame()
+    {
+        gameStarted = true;
+        startPrompt.SetActive(false);
+        Time.timeScale = 1f;
     }
 
     public void AddScore()

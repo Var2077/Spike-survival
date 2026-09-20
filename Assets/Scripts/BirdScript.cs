@@ -8,13 +8,15 @@ public class BirdScript : MonoBehaviour
 
     void Update()
     {
-        if (gameManager.gameOver)
-        {
-            return;
-        }
+        if (gameManager.gameOver) return;
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
+            if (!gameManager.gameStarted)
+            {
+                gameManager.StartGame();
+            }
+
             myRigidbody.linearVelocity = Vector2.up * flapStrength;
 
             SoundManagerScript.instance.PlayJumpSound();
