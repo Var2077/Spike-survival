@@ -17,6 +17,8 @@ public class GameManagerScript : MonoBehaviour
     public GameObject startPrompt;
     public bool gameStarted = false;
 
+    public CameraShakeScript cameraShake;
+
     private int topScore = 0;
 
     void Start()
@@ -84,6 +86,8 @@ public class GameManagerScript : MonoBehaviour
 
 
         gameOverScreen.SetActive(true);
+
+        cameraShake.Shake();
 
         Time.timeScale = 0f;
     }

@@ -8,7 +8,7 @@ public class ScoreZoneScript : MonoBehaviour
 
     void Start()
     {
-        gameManager = FindFirstObjectByType<GameManagerScript>();
+        gameManager = FindAnyObjectByType<GameManagerScript>();
     }
 
     private void OnTriggerEnter2D(Collider2D other)

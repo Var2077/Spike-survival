@@ -6,7 +6,7 @@ public class GoldChunkScript : MonoBehaviour
 
     private void Start()
     {
-        gameManager = FindFirstObjectByType<GameManagerScript>();
+        gameManager = FindAnyObjectByType<GameManagerScript>();
     }
 
     private void OnTriggerEnter2D(Collider2D other)
